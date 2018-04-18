@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby "2.4.1"
+ruby "1.9.3"
 
 gem 'pry'
 gem 'pry-nav'
